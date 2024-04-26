@@ -1,0 +1,6 @@
+transformers
+tensorflow
+tensorflow-model-optimization
+scikit-learn
+pandas
+numpy
