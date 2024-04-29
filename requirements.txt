@@ -4,3 +4,5 @@ tensorflow-model-optimization
 scikit-learn
 pandas
 numpy
+convokit
+-e .
